@@ -1,0 +1,1 @@
+Offline-first flashcards for language learning, with TTS and speaking practice
